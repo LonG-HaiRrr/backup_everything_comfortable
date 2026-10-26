@@ -1,0 +1,113 @@
+/* ==UserStyle==
+@name         MPMux Dark Mode
+@namespace    USO Archive
+@author       long san
+@version      1.0.0
+@description  Dark Mode triệt để cho mpmux.com
+==/UserStyle== */
+
+@-moz-document domain("mpmux.com") {
+    /* Đổi nền trang và màu chữ tổng thể */
+    html, body {
+        background-color: #121212 !important;
+        color: #e0e0e0 !important;
+    }
+
+    /* Đổi màu tất cả các khối container, card, nền phụ */
+    div, section, article, header, footer, main, nav {
+        background-color: transparent;
+        color: #e0e0e0;
+    }
+
+    /* Các khung nền xám/trắng bên trong trang */
+    [class*="bg-"], 
+    .bg-white, 
+    .bg-gray-50, 
+    .bg-gray-100,
+    div[class*="shadow"],
+    div[class*="rounded"] {
+        background-color: #1e1e1e !important;
+        border-color: #333333 !important;
+        color: #e0e0e0 !important;
+    }
+
+    /* Tiêu đề & Văn bản */
+    h1, h2, h3, h4, h5, h6 {
+        color: #ffffff !important;
+    }
+
+    p, span, label, li {
+        color: #cccccc !important;
+    }
+
+    /* Nút bấm (Buttons) & Thẻ chọn chất lượng video */
+    button, 
+    a[role="button"],
+    .btn {
+        background-color: #2d2d2d !important;
+        color: #ffffff !important;
+        border-color: #444444 !important;
+    }
+
+    button:hover, 
+    a[role="button"]:hover {
+        background-color: #3d3d3d !important;
+    }
+
+    /* Giữ nguyên màu xanh của nút thành công/tải về (Lưu, Hoàn tất) cho dễ nhìn */
+    button[class*="green"],
+    div[class*="green"],
+    .bg-green-500,
+    .bg-emerald-600 {
+        background-color: #1b7a4f !important;
+        color: #ffffff !important;
+    }
+
+    /* Link & Liên kết */
+    a {
+        color: #64b5f6 !important;
+    }
+
+    /* Điều chỉnh icon & logo nếu cần */
+    svg {
+        fill: currentColor;
+    }
+    /* Fix cho các class màu chữ bị mờ/đen của Bootstrap */
+    .text-black-50, 
+    .text-black,
+    .text-muted {
+        color: #e0e0e0 !important;
+    }
+
+    /* Fix Badge / Thẻ nhãn (ví dụ: "Tên tệp") */
+    .badge, 
+    .text-bg-secondary {
+        background-color: #333333 !important;
+        color: #ffffff !important;
+    }
+
+    /* Fix các hộp thông báo Alert / Tips */
+    .alert,
+    .alert-warning {
+        background-color: #2b2613 !important;
+        color: #ffda6a !important;
+        border-color: #4d4010 !important;
+    }
+
+    /* Fix phần thông báo lỗi / cảnh báo text */
+    .text-warning-emphasis {
+        color: #ffca28 !important;
+    }
+
+    /* Fix ô nhập dữ liệu Input / Textarea / Select (nếu có) */
+    input, textarea, select {
+        background-color: #1e1e1e !important;
+        color: #ffffff !important;
+        border-color: #444444 !important;
+    }
+
+    input:focus, textarea:focus, select:focus {
+        border-color: #64b5f6 !important;
+        outline: none;
+    }
+}

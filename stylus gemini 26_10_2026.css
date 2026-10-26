@@ -1,0 +1,64 @@
+/* ==UserStyle==
+@name           gemini.google.com
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    A new userstyle
+@author         Me
+==/UserStyle== */
+
+@-moz-document url-prefix("https://gemini.google.com/") {
+
+    /* 1. Phá bỏ giới hạn chiều rộng từ các container cha bọc ngoài */
+    .conversation-container,
+    .main-content,
+    chat-window,
+    message-list,
+    response-element,
+    model-response,
+    user-query,
+    .user-query-container,
+    .message-content,
+    .markdown {
+        max-width: 100% !important;
+        width: 99% !important;
+        box-sizing: border-box !important;
+    }
+        .markdown.markdown-main-panel.md-content.enable-luminous-fast-follows.enable-updated-hr-color.stronger p, ul, response-element{
+        min-width: 90% !important;
+        margin: 0px  !important;   }
+
+    /* 2. Ép các thẻ văn bản, danh sách bên trong giãn tràn toàn bộ khung */
+    .markdown p, 
+    .markdown ul, 
+    .markdown ol,
+    .markdown-main-panel,
+    h3,
+    .attachment-container.unknown{
+        max-width: 99% !important;
+        width: 99% !important;
+        margin-left: 0 !important;
+
+    }
+
+    /* 3. Giới hạn chiều rộng và chiều cao cho khung Code */
+    code-block pre,
+    pre code,
+    .code-block-decoration pre {
+        max-height: 200px !important;
+        overflow-y: auto !important;
+    }
+
+    /* Khoảng cách giữa thẻ code và văn bản */
+    .ng-animate-disabled.ng-trigger.ng-trigger-codeBlockRevealAnimation,
+    .code-block {
+        width: 100% !important;
+    }
+    
+    .buttons-container.adv-upsell.ng-star-inserted
+    ,.capabilities-disclaimer{
+        display:none;
+    }
+    p {
+        font-size: 20px !important;
+    }
+}

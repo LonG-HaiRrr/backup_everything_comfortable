@@ -126,3 +126,35 @@ font-family: 'VT323', 'Courier New', monospace !important; */
         display: none !important;
     }
 }
+
+
+@-moz-document url-prefix("https://knowt.com/flashcards/")
+, url-prefix("https://knowt.com/materials")
+    {
+    
+     #kjqweriokdd3334
+    , #fs-sticky-footer{
+        display: none;
+    }
+        
+    
+        .flex-module__Q1Fv2q__flex.container-module__9FL0WW__mainContainer
+        .flex-module__Q1Fv2q__flex.flex-module__Q1Fv2q__flexColumn.container-module__9FL0WW__innerContainerWidth
+        {
+            min-width: 100%;
+            margin: 20px 0px !important;
+        }
+    
+}
+
+
+
+
+@-moz-document url-prefix("knowt.com/*") {
+.breakpoints-module__zbexiG__mdDownDisplayNone
+    ,.fs-sticky-footer
+    {
+             display: none !important;
+    }
+
+}

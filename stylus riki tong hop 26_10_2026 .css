@@ -1,0 +1,213 @@
+/* ==UserStyle==
+@name          riki tong hop
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    A new userstyle
+@author         Me
+==/UserStyle== */
+
+
+@-moz-document 
+    url-prefix("https://riki.edu.vn/online/my-course/12?s")
+    , url-prefix("https://riki.edu.vn/online/my-course/11?")
+    , url-prefix("https://riki.edu.vn/online/my-course/3?s")
+    , url-prefix("https://riki.edu.vn/online/my-course/18?s")
+    {
+        
+        
+    .modal-body{
+        min-height: 800px !important;
+        padding: 0px !important;
+    }
+    .list_document_free__item__content{
+        min-height: 650px !important;
+        padding: 0px !important;
+        margin: 0px !important;
+        
+    }
+    
+
+    .sidebarLeft{
+        scale: 70%;
+        min-height: 800px !important;
+        transform: translateX(-30px) translateY(-176px);
+    }
+    .menuSidebar {
+        min-height: 810px !important;
+        
+    }
+    .sidebar_info_course{
+        scale: 53%;
+/*         scale: 43%; */
+        min-height: 830px !important;
+/*         transform: translateX(60px) translateY(-696px); */
+        transform: translateX(60px) translateY(-496px);
+        
+    }
+    .list_course{
+        min-height: 1000px !important;
+    }
+    
+    ol.breadcrumb,  .header__learning , .header__learning__breadcrumb {display: none;}
+    .content-learning.container_learning{
+        margin: 20px 0;
+    }
+
+
+u {
+        text-underline-offset: 10px !important; 
+    }
+        .exam_result_part, .page_exam_course__card.scrolled {
+        display: none;
+    }
+
+    .page_exam_course__list_question__item.group_question_box table
+     {
+    width: 95% !important;
+}
+    .page_exam_course__card{
+        min-width: 95% !important;
+    }
+    audio {
+        width: 100% !important;
+        max-width: 800px !important;
+    }
+/* 4. FIX LỖI CỤT LỦN VĂN BẢN (font-japan & question_heading) */
+    .question_heading {
+        display: flex !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        align-items: flex-start !important;
+    }
+
+    .font-japan {
+        font-size: 25px !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        flex: 1 1 auto !important; /* Bat buoc phinh ra het chieu rong */
+        line-height: 1.0 !important; /* Khoang cach dong de Furigana khong de len nhau */
+    }
+
+    .font-japan p {
+        width: 100% !important; /* Sua tu 95% thanh 100% de khong bi bop hẹp */
+        max-width: 100% !important;
+        display: block !important;
+        word-break: break-word !important;
+    }
+    
+    
+    
+    
+    
+        /* 2. Tăng kích thước chữ chính */
+.font-japan {
+    font-size: 20px !important;
+/*     font-weight: bold !important; */
+}
+
+/* 3. Chữ phiên âm trên đầu (rt) để khoảng 50% chữ chính để không bị chèn nét */
+.font-japan rt, .question_heading rt {
+    font-size: 17px !important;
+}
+
+.question_heading span{
+font-size: 20px !important;
+}
+        label.radio-label{
+            padding: 9px !important;
+        }
+.page_exam_course__card.question_item_child{margin: 0px;}
+        
+/* button.menu__item.active{
+    transform: translateY(-15px) !important;
+} */
+        .nav_mobile{
+/*             max-height: 40px; */
+            scale:50%;
+                transform: translateY(40px) !important;
+        }
+
+
+        
+        
+        
+        
+        
+.button_menu_course {
+  position: fixed !important;
+  bottom: 120px;       /* Khoảng cách so với mép dưới */
+  right: -360px;        /* Khoảng cách so với mép phải */
+  z-index: 9999;      /* Đảm bảo nút luôn nổi lên trên các thành phần khác */
+  display: flex;      /* Đảm bảo nút không bị ẩn */
+  align-items: center;
+  justify-content: center;
+}
+        
+button#btn-quizlet-export {
+    padding: 0 !important;
+    width: 30px !important;
+    height: 30px !important;
+    font-size: 14px !important;
+    justify-content: center !important;
+}
+
+    
+}
+
+
+@-moz-document url-prefix("https://riki.edu.vn/online/my-course/12?sss")
+    , url-prefix("https://riki.edu.vn/online/my-course/11?sss")
+    , url-prefix("https://riki.edu.vn/online/my-course/3?ssss")
+    , url-prefix("https://riki.edu.vn/online/my-course/18?ssss")
+    {
+
+
+u {
+        text-underline-offset: 10px !important; 
+    }
+   
+.sidebar_course__body
+,
+        .search_course
+,.question_selection .fill_word .mb-3 label
+/* ,#heading_selected_question  */ 
+        {
+    display: none !important;
+}
+        
+        
+        .sidebar_info_course
+        ,.list_course
+        {
+/*         min-height: 450px !important; */
+        min-height: 300px !important;
+    }
+        .header_sidebar_course
+        {
+            padding: 0px !important;
+        }
+        .sidebar_info_course__block{margin-top:65px !important;}
+        
+
+        
+         .menuSidebar {
+        min-height: 50px !important;
+        
+    }
+    .sidebar_info_course{
+        scale: 53%;
+/*         scale: 43%; */
+        min-height: 530px !important;
+/*         transform: translateX(60px) translateY(-696px); */
+        transform: translateX(60px) translateY(-166px);
+        
+    }
+    .list_course{
+        min-height: 660px !important;
+    }
+        .heading_selected_question, .page_exam_course__card{
+            min-width: 800px !important;
+        }
+    
+    
+}

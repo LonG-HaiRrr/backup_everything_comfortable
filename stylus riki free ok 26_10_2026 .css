@@ -1,0 +1,101 @@
+/* ==UserStyle==
+@name           riki free ok
+@namespace      github.com/openstyles/stylus
+@version        1.2.0
+@description    Layout adjustments and Dark Mode Fixed
+@author         Me
+==/UserStyle== */ 
+@-moz-document url-prefix("https://riki.edu.vn/minna-no-nihongo/") {
+    /* Tắt hình tròn màu trắng phía sau */
+    .rikiDetailBlockTop{
+        margin: 0px !important;
+        padding: 0px !important;
+        scale: 10%;
+          display: none;
+        
+    }
+    section.rikiDetailBlockTop{
+        color: #000 !important;
+        background: none !important;
+    }
+    
+    .tableList{
+        margin-top: 160px !important;
+    }
+
+    .banner_momo img, header.headerDetail {
+        display: none;
+        
+    }
+    
+    /* --- Bố cục bạn đã căng chỉnh --- */
+    .clickScroll_mina .container {
+        margin: 0px !important;
+        padding: 0px !important;
+        width: 98%;
+        min-width: 98%;
+    }
+    
+    .box_content_write {
+        margin: 0 0px !important;
+        padding-left: 100px !important;
+        width: 99%;
+        min-width: 99%;
+    }
+
+    /* --- Giao diện Dark Mode --- */
+    
+    /* Nền tổng thể */
+    html, body, .clickScroll_mina {
+        background-color: #181a1b !important;
+        color: #e8e6e3 !important;
+    }
+
+    /* Khối nội dung chung */
+    .container, .box_content_write, .bg-white {
+        background-color: #181a1b !important;
+        color: #e8e6e3 !important;
+    }
+
+    /* --- SỬA LỖI BẢNG TỪ VỰNG --- */
+    /* Ép nền tối cho tất cả các thành phần của bảng */
+    table, thead, tbody, tfoot, tr, th, td {
+        background-color: #181a1b !important;
+        color: #e8e6e3 !important;
+        border-color: #3e4446 !important;
+    }
+
+    /* Đổ màu so le cho các hàng để dễ đọc hơn (Striped rows) */
+    tr:nth-child(even) td, tr:nth-child(even) th {
+        background-color: #242526 !important;
+    }
+
+    /* Ghi đè các style inline nếu thẻ div dùng màu nền cứng */
+    div[style*="background-color: rgb(255, 255, 255)"],
+    div[style*="background: #fff"],
+    div[style*="background-color: #ffffff"] {
+        background-color: #181a1b !important;
+    }
+
+    /* Màu chữ chung cho các thẻ */
+    h1, h2, h3, h4, h5, h6, p, span, li, div {
+        color: #e8e6e3 !important;
+        background-color: #181a1b !important;
+    }
+    rt {
+        font-size: 10px !important;
+    }
+    /* Link liên kết */
+    a {
+        color: #5ea8ff !important;
+    }
+
+    /* Header / Navbar */
+    header, footer, .menu, .navbar {
+        background-color: #141516 !important;
+        border-bottom: 1px solid #3e4446 !important;
+    }
+    footer {
+        display: none !important;
+    }
+}

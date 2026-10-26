@@ -1,0 +1,23 @@
+/* ==UserStyle==
+@name           quizlet.com/create-set
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    A new userstyle
+@author         Me
+==/UserStyle== */
+
+
+@-moz-document url-prefix("https://quizlet.com/create-set") {
+    .t101lnif{
+        display:none;
+    }
+    .s1t0090s.c1g9p8ih{
+        padding: 0px 32px;
+    }
+    .s1am6q4n{
+        min-height: 800px;
+    }
+    p {
+        color: #fff;
+    }
+}

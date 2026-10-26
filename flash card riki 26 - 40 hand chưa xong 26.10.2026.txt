@@ -1,0 +1,2387 @@
+ほめます
+褒めます	[tha đt] khen
+褒:bao (khen)
+しかります
+叱ります	[tha đt] mắng, chửi
+叱:sất(mắng)
+さそいます
+誘いきます	[tha đt] mời, rủ rê
+誘:dụ(mời)
+おこします
+起こします	[tha đt] đánh thức
+起:khởi(thức dậy)
+しょうたいします
+招待します	[tha đt] mời
+招:chiêu(mời)
+待:đãi(đợi)
+たのみます
+頼みます	[tha đt] nhờ, yêu cầu
+頼:lại(nhờ vả)
+ちゅういします
+注意します	[tha đt] chú ý, nhắc nhở
+注:chú(chú ý)
+意:ý(ý kiến)
+とります
+盗みます	[tha đt] ăn trộm, lấy cắp
+盗:đạo(trộm)
+ふみます
+踏みます	[tha đt] giẫm, giẫm lên
+踏:đạp(giẫm)
+こわします
+壊します	[tha đt] phá, làm hỏng
+壊:hoại(hỏng, phá)
+よごします
+汚します	[tha đt] làm bẩn
+汚:ô(bẩn)
+おこないます
+行います	[tha đt] thực hiện, tiến hành
+行:hành(thực hiện)
+ゆしゅつします
+輸出します	[tha đt] xuất khẩu
+輸:thâu(vận chuyển)
+出:xuất(ra)
+ゆにゅうします
+輸入します	[tha đt] nhập khẩu
+輸:thâu(vận chuyển)
+入:nhập(vào)
+ほんやくします
+翻訳します	[tha đt] dịch (sách, tài liệu)
+翻:phiên(dịch)
+訳:dịch(dịch nghĩa)
+はつめいします
+発明します	[tha đt] phát minh
+発:phát(phát ra)
+明:minh(sáng)
+はっけんします
+発見します	[tha đt] phát kiến, tìm ra
+発:phát(phát ra)
+見:kiến(nhìn, tìm)
+せっけいします
+設計します	[tha đt] thiết kế
+設:thiết(lập)
+計:kế(tính toán)
+こめ
+米	gạo
+米:mễ(gạo)
+むぎ
+麦	lúa mạch
+麦:mạch(lúa mạch)
+せきゆ
+石油	dầu mỏ
+石:thạch(đá)
+油:du(dầu)
+げんりょう
+原料	nguyên liệu
+原:nguyên(nguồn gốc)
+料:liệu(vật liệu)
+どろぼう
+泥棒	kẻ trộm
+泥:nê(bùn)
+棒:bổng(gậy)
+けいかん
+警官	cảnh sát
+警:cảnh(cảnh giác)
+官:quan(quan lại)
+せかいじゅう
+世界中	khắp thế giới, toàn thế giới
+世:thế(thế giới)
+界:giới(giới hạn)
+中:trung(trong, khắp)
+うめたてます
+埋め立てます	[tha đt] lấp, san lấp (biển/đất)
+埋:mai(chôn, lấp)
+立:lập(đứng)
+ぎじゅつ
+技術	kỹ thuật, công nghệ
+技:kỹ(kỹ năng)
+術:thuật(phương pháp)
+とち
+土地	đất, diện tích đất
+土:thổ(đất)
+地:địa(đất)
+そうおん
+騒音	tiếng ồn
+騒:tao(ồn ào)
+音:âm(âm thanh)
+りようします
+利用します	[tha đt] sử dụng, tận dụng
+利:lợi(lợi ích)
+用:dụng(sử dụng)
+ーせいき
+ー世紀	thế kỷ-
+世:thế(thế hệ)
+紀:kỉ(kỉ nguyên)
+ごうか
+豪華	hào hoa, sang trọng
+豪:hào(hào phóng)
+華:hoa(lộng lẫy)
+ちょうこく
+彫刻	điêu khắc, tượng điêu khắc
+彫:điêu(khắc)
+刻:khắc(khắc)
+ねむります
+眠ります	[tự đt] ngủ
+眠:miên(ngủ)
+ほります
+彫ります	[tha đt] khắc, chạm khắc
+彫:điêu(khắc)
+なかま
+仲間	bạn bè, đồng nghiệp, đồng đội
+仲:trọng(quan hệ)
+間:gian(giữa)
+そのあと
+その後	sau đó
+後:hậu(sau)
+いっしょうけんめい
+一生懸命	cố gắng hết sức, chăm chỉ
+一:nhất(một)
+生:sinh(sống)
+懸:huyền(treo, dốc sức)
+命:mệnh(sinh mệnh)
+ねずみ
+鼠	con chuột
+鼠:thử(chuột)
+いっぴきもいません
+一匹もいません	không có con nào cả
+一:nhất(một)
+匹:thất(con)
+そだてます
+育てます	[tha đt] nuôi, trồng
+育:dục(nuôi dưỡng)
+はこびます
+運びます	[tha đt] chở, vận chuyển
+運:vận(vận chuyển)
+なくなります
+亡くなります	[tự đt] mất, qua đời
+亡:vong(mất, chết)
+にゅういんします
+入院します	[tự đt] nhập viện
+入:nhập(vào)
+院:viện(bệnh viện)
+たいいんします
+退院します	[tự đt] xuất viện
+退:thối(rời khỏi)
+院:viện(bệnh viện)
+いれます
+入れます	[tha đt] bật (nguồn điện)
+入:nhập(vào)
+きります
+切ります	[tha đt] tắt (nguồn điện)
+切:thiết(cắt)
+かけます
+掛けます	[tha đt] khóa (cửa)
+掛:quải(treo, khóa)
+あかちゃん
+赤ちゃん	em bé
+赤:xích(đỏ)
+しょうがっこう
+小学校	trường tiểu học
+小:tiểu(nhỏ)
+学:học(học tập)
+校:hiệu(trường học)
+ちゅうがっこう
+中学校	trường trung học cơ sở
+中:trung(giữa)
+学:học(học tập)
+校:hiệu(trường học)
+かいがん
+海岸	bờ biển
+海:hải(biển)
+岸:ngạn(bờ)
+うそ
+嘘	nói dối, lời nói dối
+嘘:hư(nói dối)
+しょるい
+書類	giấy tờ, tài liệu
+書:thư(viết, sách)
+類:loại(loại)
+でんげん
+電源	nguồn điện, công tắc điện
+電:điện(điện)
+源:nguyên(nguồn)
+あ、いけない
+あ、いけない	Ôi, hỏng mất rồi
+あ、いけない:a ikenai(ôi hỏng mất rồi)
+おさきに
+お先に	Tôi xin phép về trước
+先:tiên(trước)
+かいらん
+回覧	tập thông báo
+回:hồi(quay, lượt)
+覧:lãm(xem)
+けんきゅうしつ
+研究室	phòng nghiên cứu
+研:nghiên(mài giũa)
+究:cứu(nghiên cứu)
+室:thất(phòng)
+きちんと
+きちんと	nghiêm chỉnh, hẳn hoi, đứng đắn
+きちんと:kichinto(nghiêm chỉnh)
+せいりします
+整理します	[tha đt] sắp xếp
+整:chỉnh(sắp xếp)
+理:lý(lý do)
+はんこ
+判子	con dấu, dấu
+判:phán(phán đoán, dấu)
+子:tử(con)
+おします
+押します	[tha đt] đóng (dấu), ấn
+押:áp(ấn, đẩy)
+ふたご
+双子	cặp sinh đôi
+双:song(cặp, đôi)
+子:tử(con)
+しまい
+姉妹	chị em
+姉:tỷ(chị)
+妹:muội(em gái)
+にています
+似ています	[tự đt] giống
+似:tự(giống)
+せいかく
+性格	tính cách
+性:tính(tính cách)
+格:cách(tính cách)
+おとなしい
+大人しい	hiền lành, trầm
+大:đại(lớn)
+人:nhân(người)
+せわをします
+世話をします	[tha đt] chăm sóc, giúp đỡ
+世:thế(thế gian)
+話:thoại(nói chuyện)
+じかんがたちます
+時間が経ちます	[tự đt] thời gian trôi đi
+時:thời(thời gian)
+間:gian(khoảng)
+経:kinh(trôi qua)
+けんかします
+喧嘩します	[tự đt] cãi nhau
+喧:huyên(ồn ào)
+嘩:hoa(ồn ào)
+しょうゆ
+醤油	xì-dầu, nước tương
+醤:tương(mắm)
+油:du(dầu)
+ソース
+ソース	nước chấm, nước xốt
+ソース:sōsu(nước xốt)
+ゆうべ
+夕べ	tối qua, đêm qua
+夕:tịch(chiều tối)
+さっき
+さっき	vừa rồi, vừa lúc nãy
+さっき:sakki(vừa rồi)
+さどう
+茶道	trà đạo
+茶:trà(trà)
+道:đạo(con đường)
+おちゃをたてます
+お茶をたてます	[tha đt] pha trà
+茶:trà(trà)
+さきに
+先に	trước (Nhấn mạnh thứ tự hành động)
+先:tiên(trước)
+のせます
+載せます	[tha đt] đặt lên, chất lên
+載:tải(đặt lên, chở)
+これでいいですか
+これでいいですか	Thế này được không / đã được chưa
+これでいいですか:kore de ii desu ka(thế này được không)
+にがい
+苦い	đắng
+苦:khổ(đắng)
+おやこどんぶり
+親子どんぶり	món oyako-don
+親:thân(cha mẹ)
+子:tử(con)
+ざいりょう
+材料	nguyên liệu
+材:tài(vật liệu)
+料:liệu(vật liệu)
+とりにく
+鶏肉	thịt gà
+鶏:kê(gà)
+肉:nhục(thịt)
+ーグラム
+ーグラム	gam-
+ーグラム:gurasu(gram)
+たまねぎ
+玉ねぎ	hành củ, hành tây
+玉:ngọc(tròn)
+４ぶんの１
+４分の１	1/4 (một phần tư)
+分:phân(phần)
+ちょうみりょう
+調味料	gia vị
+調:điều(điều chỉnh)
+味:vị(mùi vị)
+料:liệu(vật liệu)
+なべ
+鍋	cái nồi
+鍋:nồi(cái nồi)
+ひ
+火	lửa
+火:hỏa(lửa)
+ひにかけます
+火にかけます	[tha đt] đun, cho lên bếp đun
+火:hỏa(lửa)
+にます
+煮ます	[tha đt] nấu, kho, ninh
+煮:chử(nấu)
+にえます
+煮えます	[tự đt] chín, được nấu chín
+煮:chử(nấu)
+どんぶり
+丼	bát ô tô lớn
+丼:tỉnh(bát to)
+みがきます
+磨きます	[tha đt] mài, đánh (răng, giày)
+磨:ma(mài)
+くみたてます
+組み立てます	[tha đt] lắp ráp, lắp đặt
+組:tổ(tập hợp, lắp)
+立:lập(đứng)
+おります
+折ります	[tha đt] gấp, gập, bẻ gãy
+折:chiết(bẻ, gấp)
+きがつきます
+気が付きます	[tự đt] nhận thấy, phát hiện
+気:khí(tinh thần)
+付:phó(gắn, nhận)
+つけます
+付けます	[tha đt] chấm (mắm, nước sốt)
+付:phó(gắn)
+みつかります
+見つかります	[tự đt] được tìm thấy
+見:kiến(nhìn)
+ネクタイをします
+ネクタイをします	[tha đt] thắt, đeo (cà vạt)
+ネクタイ:nekutai(cà vạt)
+しつもんします
+質問します	[tha đt] hỏi, đặt câu hỏi
+質:chất(chất lượng, hỏi)
+問:vấn(hỏi)
+ほそい
+細い	gầy, mảnh, hẹp, thon
+細:tế(nhỏ, gầy)
+ふとい
+太い	béo, to
+太:thái(to, béo)
+ぼんおどり
+盆踊り	múa trong hội Bon
+盆:bồn(lễ Bon)
+踊:dũng(nhảy múa)
+スポーツクラブ
+スポーツクラブ	câu lạc bộ thể thao
+スポーツクラブ:supōtsukurabu(sports club)
+かぐ
+家具	gia cụ, đồ dùng nội thất
+家:gia(nhà)
+具:cụ(dụng cụ)
+キー
+キー	chìa khóa
+キー:kī(key)
+シートベルト
+シートベルト	dây an toàn
+シートベルト:shītoberuto(dây an toàn)
+せつめいしょ
+説明書	quyển hướng dẫn, sách hướng dẫn
+説:thuyết(giải thích)
+明:minh(sáng)
+書:thư(sách)
+ず
+図	sơ đồ, hình vẽ
+図:đồ(sơ đồ)
+せん
+線	đường, tuyến, đường kẻ
+線:tuyến(đường kẻ)
+やじるし
+矢印	dấu mũi tên
+矢:thỉ(mũi tên)
+印:ấn(dấu)
+くろ
+黒	màu đen
+黒:hắc(đen)
+しろ
+白	màu trắng
+白:bạch(trắng)
+あか
+赤	màu đỏ
+赤:xích(đỏ)
+あお
+青	xanh dương blue
+青:thanh(xanh)
+こん
+紺	xanh dương navi
+紺:cám(xanh sẫm)
+きいろ
+黄色	màu vàng
+黄:hoàng(vàng)
+色:sắc(màu)
+ちゃいろ
+茶色	màu nâu
+茶:trà(trà)
+色:sắc(màu)
+にげます
+逃げます	[tự đt] chạy trốn, bỏ chạy
+逃:đào(trốn)
+さわぎます
+騒ぎます	[tự đt] làm ồn, làm rùm beng
+騒:tao(ồn ào)
+あきらめます
+諦めます	[tha đt] từ bỏ, đầu hàng
+諦:đế(từ bỏ)
+なげます
+投げます	[tha đt] ném
+投:đầu(ném)
+まもります
+守ります	[tha đt] bảo vệ, tuân thủ
+守:thủ(bảo vệ)
+あげます
+上げます	[tha đt] nâng lên, tăng lên
+上:thượng(trên)
+下げます
+下げます	[tha đt] hạ xuống, giảm xuống
+下:hạ(dưới)
+つたえます
+伝えます	[tha đt] truyền đạt
+伝:truyền(truyền đạt)
+ちゅういします
+注意します	[tha đt] chú ý
+注:chú(chú ý)
+意:ý(ý)
+はずします
+外します	[tha đt] rời, không có ở (chỗ ngồi)
+外:ngoại(ngoài)
+だめ
+駄目	không được, không thể
+駄:đà(vô dụng)
+目:mục(mắt)
+せき
+席	chỗ ngồi, ghế
+席:tịch(chỗ ngồi)
+ファイト
+ファイト	'quyết chiến', 'cố lên'
+ファイト:faito(fight)
+マーク
+マーク	kí hiệu
+マーク:māku(mark)
+ボール
+ボール	quả bóng
+ボール:bōru(ball)
+せんたくき
+洗濯機	máy giặt
+洗:tẩy(giặt)
+濯:trạc(giặt)
+機:cơ(máy)
+せんたくします
+選択します	[tha đt] giặt giũ
+選:tuyển(lựa)
+択:trạch(chọn)
+きそく
+規則	quy tắc, kỷ luật
+規:quy(quy tắc)
+則:tắc(phép tắc)
+しようきんし
+使用禁止	cấm sử dụng
+使:sử(dụng)
+用:dụng(sử dụng)
+禁:cấm(cấm)
+止:chỉ(dừng)
+たちいりきんし
+立ち入り禁止	cấm vào
+立:lập(đứng)
+入:nhập(vào)
+禁:cấm(cấm)
+止:chỉ(dừng)
+いりぐち
+入口	cửa vào
+入:nhập(vào)
+口:khẩu(cửa)
+でぐち
+出口	cửa ra
+出:xuất(ra)
+口:khẩu(cửa)
+ひじょうぐち
+非常口	cửa thoát hiểm
+非:phi(không)
+常:thường(thường)
+口:khẩu(cửa)
+むりょう
+無料	miễn phí
+無:vô(không)
+料:liệu(phí)
+ほんじつきゅうぎょう
+本日休業	hôm nay đóng cửa, hôm nay nghỉ
+本:bản(gốc)
+日:nhật(ngày)
+休:hưu(nghỉ)
+業:nghiệp(kinh doanh)
+えいぎょうちゅう
+営業中	Đang kinh doanh
+営:doanh(kinh doanh)
+業:nghiệp(nghiệp vụ)
+中:trung(đang)
+しようちゅう
+使用中	đang sử dụng
+使:sử(dụng)
+用:dụng(sử dụng)
+中:trung(đang)
+ちゅうしゃいはん
+駐車違反	đỗ xe trái phép
+駐:trú(đỗ)
+車:xa(xe)
+違:vi(vi phạm)
+反:phản(chống đối)
+そりゃあ
+そりゃあ	thế thì, ồ
+そりゃあ:soryā(thế thì)
+〜いない
+〜以内	~ trong khoảng, ~ trong vòng
+以:dĩ(với)
+内:nội(trong)
+けいさつ
+警察	cảnh sát
+警:cảnh(cảnh sát)
+察:sát(kiểm tra)
+ばっきん
+罰金	tiền phạt
+罰:phạt(phạt)
+金:kim(tiền)
+でんぽう
+電報	điện báo
+電:điện(điện)
+報:báo(thông báo)
+ひとびと
+人々	nhiều người
+人:nhân(người)
+きゅうよう
+急用	việc gấp
+急:cấp(gấp)
+用:dụng(việc)
+うちます
+打ちます	[tha đt] gửi (điện báo), đánh máy
+打:đả(đánh)
+でんぽうだい
+電報代	phí điện báo
+電:điện(điện)
+報:báo(thông báo)
+代:đại(tiền phí)
+できるだけ
+できるだけ	cố gắng, trong khả năng có thể
+できるだけ:dekirudake(cố gắng)
+みじかく
+短く	ngắn gọn
+短:đoản(ngắn)
+また
+また	thêm nữa
+また:mata(thêm nữa)
+たとえば
+例えば	ví dụ
+例:lệ(ví dụ)
+きとく
+危篤	tình trạng hiểm nghèo
+危:nguy(nguy hiểm)
+篤:đốc(nặng)
+おもいびょうき
+重い病気	bệnh nặng
+重:trọng(nặng)
+病:bệnh(bệnh)
+気:khí(thể trạng)
+あす
+明日	ngày mai
+明:minh(sáng)
+日:nhật(ngày)
+るす
+留守	vắng nhà
+留:lưu(giữ)
+守:thủ(bảo vệ)
+るすばん
+留守番	trông nhà, giữ nhà
+留:lưu(giữ)
+守:thủ(bảo vệ)
+番:phiên(phiên gác)
+いわい
+祝い	việc mừng
+祝:chúc(chúc mừng)
+かなしい
+悲しい	buồn
+悲:bi(buồn)
+うんどうします
+運動します	[tự đt] vận động, tập thể thao
+運:vận(vận động)
+動:động(chuyển động)
+せいこうします
+成功します	[tự đt] thành công
+成:thành(thành công)
+功:công(công sức)
+しっぱいします
+失敗します	[tự đt] thất bại
+失:thất(mất)
+敗:bại(thua)
+ごうかくします
+合格します	[tự đt] đỗ (kỳ thi)
+合:hợp(hợp)
+格:cách(tiêu chuẩn)
+もどります
+戻ります	[tự đt] quay lại, trở lại
+戻:lệ(quay lại)
+やみます
+止みます	[tự đt] tạnh, ngừng (mưa)
+止:chỉ(dừng)
+はれます
+晴れます	[tự đt] nắng, quang đãng
+晴:tình(nắng)
+くもります
+曇ります	[tự đt] có mây, mây mù
+曇:đàm(mây)
+ふきます
+吹きます	[tự đt] thổi (gió)
+吹:xuy(thổi)
+なおります
+治ります	[tự đt] khỏi bệnh
+治:trị(chữa bệnh)
+直ります
+直ります	[tự đt] đã sửa chữa
+直:trực(sửa)
+つづきます
+続きます	[tự đt] tiếp tục, tiếp diễn
+続:tục(tiếp tục)
+ひやします
+冷やします	[tha đt] làm lạnh
+冷:lãnh(lạnh)
+しんぱい
+心配	lo lắng
+心:tâm(tim)
+配:phối(lo lắng)
+じゅうぶん
+十分	đủ
+十:thập(mười)
+分:phân(phần)
+おかしい
+おかしい	có vấn đề, không bình thường, kỳ lạ
+おかしい:okashii(kỳ lạ)
+うるさい
+うるさい	ồn ào
+うるさい:urusai(ồn ào)
+やけど
+火傷	bỏng
+火:hỏa(lửa)
+傷:thương(vết thương)
+けが
+怪我	bị thương
+怪:quái(lạ)
+我:ngã(tôi)
+せき
+咳	ho
+咳:khái(ho)
+インフルエンザ
+インフルエンザ	cúm dịch
+インフルエンザ:infurenza(cúm)
+そら
+空	bầu trời
+空:không(trời)
+たいよう
+太陽	mặt trời
+太:thái(lớn)
+陽:dương(ánh sáng)
+ほし
+星	ngôi sao
+星:tinh(sao)
+つき
+月	mặt trăng
+月:nguyệt(trăng)
+かぜ
+風	gió
+風:phong(gió)
+きた
+北	phía bắc
+北:bắc(phía bắc)
+みなみ
+南	phía nam
+南:nam(phía nam)
+にし
+西	phía tây
+西:tây(phía tây)
+ひがし
+東	phía đông
+東:đông(phía đông)
+すいどう
+水道	nước máy
+水:thủy(nước)
+道:đạo(đường)
+エンジン
+エンジン	động cơ
+エンジン:enjin(engine)
+チーム
+チーム	đội
+チーム:chīmu(team)
+こんや
+今夜	tối nay, đêm nay
+今:kim(bây giờ)
+夜:dạ(tối)
+ゆうがた
+夕方	chiều tối
+夕:tịch(chiều)
+方:phương(hướng)
+まえ
+前	trước
+前:tiền(trước)
+おそく
+遅く	muộn, khuya
+遅:trì(muộn)
+こんなに
+こんなに	như thế này
+こんなに:konnani(như thế này)
+そんなに
+そんなに	như thế đó
+そんなに:sonnani(như thế đó)
+あんなに
+あんなに	như thế kia
+あんなに:annani(như thế kia)
+もしかしたら
+もしかしたら	có thể, biết đâu là
+もしかしたら:moshikashitara(có thể)
+それはいけませんね
+それはいけませんね	thế thì thật không tốt
+それはいけませんね:sore wa ikemasen ne(thế thì thật không tốt)
+オリンピック
+オリンピック	olympic
+オリンピック:orinpikku(olympic)
+げんき
+元気	khỏe mạnh
+元:nguyên(gốc, khỏe)
+気:khí(thể trạng)
+い
+胃	dạ dày
+胃:vị(dạ dày)
+はたらきすぎ
+働きすぎ	làm việc quá sức
+働:động(làm việc)
+過:quá(quá mức)
+ストレス
+ストレス	stress, căng thẳng tâm lý
+ストレス:sutoresu(stress)
+むりをします
+無理をします	[tự đt] làm quá sức
+無:vô(không)
+理:lý(lý do)
+ゆっくりします
+ゆっくりします	[tự đt] nghỉ ngơi, thư thái
+ゆっくりします:yukkuri shimasu(nghỉ ngơi)
+ほしうらない
+星占い	bói sao
+星:tinh(sao)
+占:chiếm(bói)
+おうしざ
+牡牛座	chòm sao Kim Ngưu
+牡:mẫu(đực)
+牛:ngưu(trâu)
+座:tọa(chòm sao)
+こまります
+困ります	[tự đt] rắc rối, khó xử, có vấn đề
+困:khốn(khó khăn)
+たからくじ
+宝くじ	xổ số
+宝:bảo(báu vật)
+あたります
+当たります	[tự đt] trúng (số)
+当:đương(trúng)
+けんこう
+健康	sức khỏe
+健:kiện(khỏe)
+康:khang(an khang)
+れんあい
+恋愛	tình yêu
+恋:luyến(yêu)
+愛:ái(yêu)
+こいびと
+恋人	người yêu
+恋:luyến(yêu)
+人:nhân(người)
+おかねもち
+お金持ち	người giàu có
+金:kim(tiền)
+持:trì(có)
+うれます
+売れます	[tự đt] bán chạy, được bán
+売:mại(bán)
+おどります
+踊ります	[tự đt] nhảy, khiêu vũ
+踊:dũng(nhảy)
+かみます
+噛みます	[tha đt] nhai, cắn
+噛:giảo(nhai)
+えらびます
+選びます	[tha đt] lựa, lựa chọn
+選:tuyển(chọn)
+かよいます
+通います	[tự đt] đi học, đi lại thường xuyên
+通:thông(đi lại)
+メモします
+メモします	[tha đt] ghi chép lại, ghi chú
+メモします:memo shimasu(ghi chú)
+まじめ
+真面目	nghiêm túc, đàng hoàng
+真:chân(thật)
+面:diện(mặt)
+目:mục(mắt)
+ねっしん
+熱心	nhiệt tình
+熱:nhiệt(nhiệt tình)
+心:tâm(tâm huyết)
+えらい
+偉い	vĩ đại, giỏi giang, đáng kính
+偉:vĩ(vĩ đại)
+ちょうどいい
+丁度いい	vừa đúng, vừa vặn
+丁:đinh(vừa)
+度:độ(mức)
+やさしい
+優しい	hiền lành, tốt bụng
+優:ưu(hiền lành)
+しゅうかん
+習慣	tập quán, thói quen
+習:tập(học)
+慣:quán(quen)
+けいけん
+経験	kinh nghiệm
+経:kinh(trải qua)
+験:nghiệm(thử nghiệm)
+ちます
+力	sức mạnh
+力:lực(sức mạnh)
+にんき
+人気	sự hâm mộ, sự yêu thích
+人:nhân(người)
+気:khí(sự chú ý)
+かたち
+形	hình dáng
+形:hình(hình dáng)
+いろ
+色	màu sắc
+色:sắc(màu)
+あじ
+味	vị
+味:vị(mùi vị)
+ガム
+ガム	kẹo cao su
+ガム:gamu(gum)
+しなもの
+品物	hàng hóa
+品:phẩm(hàng)
+物:vật(đồ)
+ねだん
+値段	giá cả
+値:trị(giá)
+段:đoạn(bậc)
+きゅうりょう
+給料	lương
+給:cấp(cấp phát)
+料:liệu(tiền)
+ボーナス
+ボーナス	tiền thưởng
+ボーナス:bōnasu(bonus)
+ばんぐみ
+番組	chương trình (truyền hình, phát thanh)
+番:phiên(phiên)
+組:tổ(tổ chức)
+ドラマ
+ドラマ	kịch, phim truyền hình
+ドラマ:dorama(drama)
+しょうせつ
+小説	tiểu thuyết
+小:tiểu(nhỏ)
+説:thuyết(thuyết minh)
+ちょくせつ
+直接	trực tiếp
+直:trực(thẳng)
+接:tiếp(tiếp giáp)
+しょうせつか
+小説家	tiểu thuyết gia
+小:tiểu(nhỏ)
+説:thuyết(thuyết minh)
+家:gia(chuyên gia)
+かしゅ
+歌手	ca sĩ
+歌:ca(hát)
+手:thủ(người)
+かんりにん
+管理人	người quản lí
+管:quản(quản lý)
+理:lý(quản lý)
+人:nhân(người)
+むすこ
+息子	con trai (dùng cho mình)
+息:tức(hơi thở)
+子:tử(con)
+むすこさん
+息子さん	con trai (dùng cho người khác)
+息:tức(hơi thở)
+子:tử(con)
+むすめ
+娘	con gái (dùng cho mình)
+娘:nương(con gái)
+むすめさん
+娘さん	con gái (dùng cho người khác)
+娘:nương(con gái)
+じぶん
+自分	bản thân
+自:tự(tự)
+分:phân(phần)
+しょうらい
+将来	tương lai
+将:tương(tương lai)
+来:lai(đến)
+しばらく
+しばらく	một khoảng thời gian ngắn, một lúc
+しばらく:shibaraku(một lúc)
+たいてい
+たいてい	thường, thông thường
+たいてい:taitei(thông thường)
+それに
+それに	ngoài ra, thêm vào đó
+それに:soreni(ngoài ra)
+それで
+それで	do đó, vì thế
+それで:sorede(vì thế)
+「ちょっと」おねがいがあるんですが
+「ちょっと」お願いがあるんですが	tôi có chút việc muốn nhờ anh/chị
+願:nguyện(mong muốn)
+ホームステイ
+ホームステイ	homestay
+ホームステイ:hōmusutei(homestay)
+かいわ
+会話	hội thoại
+会:hội(gặp)
+話:thoại(nói)
+おしゃべりします
+お喋りします	[tự đt] trò chuyện, nói chuyện phiếm
+喋:điệp(nói nhiều)
+おしらせ
+お知らせ	thông báo
+知:tri(biết)
+ひにち
+日にち	ngày, ngày tháng
+日:nhật(ngày)
+ど
+土	thứ 7 (viết tắt của 土曜日)
+土:thổ(đất)
+たいいくかん
+体育館	nhà thi đấu, phòng thể chất
+体:thể(cơ thể)
+育:dục(nuôi dạy)
+館:quán(tòa nhà)
+むりょう
+無料	miễn phí
+無:vô(không)
+料:liệu(phí)
+かいます
+飼います	[tha đt] nuôi, chăn nuôi (động vật)
+飼:tự(nuôi)
+たてます
+建てます	[tha đt] xây dựng
+建:kiến(xây dựng)
+はしります
+走ります	[tự đt] chạy, đang vận hành
+走:tẩu(chạy)
+とります
+取ります	[tha đt] xin (nghỉ)
+取:thủ(lấy)
+みえます
+見えます	[tự đt] có thể nhìn thấy
+見:kiến(nhìn)
+きこえます
+聞こえます	[tự đt] có thể nghe thấy
+聞:văn(nghe)
+できます
+できます	[tự đt] được hoàn thành, được làm
+できます:dekimasu(được hoàn thành)
+ひらきます
+開きます	[tha đt] mở, tổ chức (lớp)
+開:khai(mở)
+ペット
+ペット	thú cưng, động vật nuôi
+ペット:petto(pet)
+とり
+鳥	chim
+鳥:điểu(chim)
+こえ
+声	tiếng, giọng nói
+声:thanh(tiếng)
+なみ
+波	sóng
+波:ba(sóng)
+はなび
+花火	pháo hoa
+花:hoa(hoa)
+火:hỏa(lửa)
+けしき
+景色	phong cảnh
+景:cảnh(phong cảnh)
+色:sắc(màu)
+ひるま
+昼間	ban ngày
+昼:trú(ban ngày)
+間:gian(khoảng)
+むかし
+昔	ngày xưa
+昔:tích(ngày xưa)
+どうぐ
+道具	dụng cụ
+道:đạo(đường)
+具:cụ(dụng cụ)
+じどうはんばいき
+自動販売機	máy bán hàng tự động
+自:tự(tự)
+動:động(động)
+販:phán(bán)
+売:mại(bán)
+機:cơ(máy)
+つうしんはんばい
+通信販売	bán hàng qua mạng, bưu điện
+通:thông(thông qua)
+信:tín(tin)
+販:phán(bán)
+売:mại(bán)
+クリーニング
+クリーニング	giặt ủi
+クリーニング:kurīningu(cleaning)
+マンション
+マンション	chung cư
+マンション:manshon(mansion)
+だいどころ
+台所	nhà bếp
+台:đài(giá)
+所:sở(nơi)
+～ご
+～後	sau...
+後:hậu(sau)
+～しか
+～しか	chỉ... (mà thôi)
+～しか:shika(chỉ)
+～きょうしつ
+～教室	lớp học
+教:giáo(dạy)
+室:thất(phòng)
+パーティールーム
+パーティールーム	phòng tiệc
+パーティールーム:pātīrūmu(party room)
+あきはばら
+秋葉原	khu Akihabara
+秋:thu(thu)
+葉:diệp(lá)
+原:nguyên(cánh đồng)
+かんさいくうこう
+関西空港	sân bay Kansai
+関:quan(quan)
+西:tây(tây)
+空:không(không)
+港:cảng(cảng)
+いず
+伊豆	bán đảo Izu
+伊:y(đại từ)
+豆:đậu(đậu)
+にちようだいく
+日曜大工	tự làm đồ mộc DIY
+日:nhật(ngày)
+曜:diệu(thứ)
+大:đại(lớn)
+工:công(công việc)
+ほんだな
+本棚	kệ sách, giá sách
+本:bản(sách)
+棚:bằng(kệ)
+いつか
+いつか	một ngày nào đó
+いつか:itsuka(một ngày nào đó)
+ゆめ
+夢	giấc mơ, ước mơ
+夢:mộng(giấc mơ)
+いえ
+家	nhà
+家:gia(nhà)
+すばらしい
+素晴らしい	tuyệt vời
+素:tố(nguyên tố)
+晴:tình(nắng, đẹp)
+すてき
+素敵	tuyệt vời (vẻ ngoài, ý tưởng)
+素:tố(nguyên)
+敵:địch(đối thủ/tuyệt)
+だいすき
+大好き	rất thích
+大:đại(lớn)
+好:hảo(thích)
+しゅじんこう
+主人公	nhân vật chính
+主:chủ(chính)
+人:nhân(người)
+公:công(chung)
+まんが
+漫画	truyện tranh
+漫:mạn(lãng mạn)
+画:họa(tranh)
+ふしぎな
+不思議な	kì lạ, thần bí
+不:bất(không)
+思:tư(nghĩ)
+議:nghị(nghị luận)
+とびます
+飛びます	[tự đt] bay
+飛:phi(bay)
+さわります
+触ります	[tự đt] sờ, chạm
+触:xúc(chạm)
+おくれます
+遅れます	[tự đt] trễ (giờ)
+遅:trì(muộn)
+おくります
+送ります	[tha đt] tiễn, gửi đi
+送:tống(gửi, tiễn)
+まにあいます
+間に合います	[tự đt] kịp (giờ, cuộc họp)
+間:gian(giữa)
+合:hợp(hợp)
+やります
+やります	[tha đt] làm (bài tập)
+やります:yarimasu(làm)
+ひろいます
+拾います	[tha đt] nhặt (rác)
+拾:thập(nhặt)
+れんらくします
+連絡します	[tha đt] liên lạc
+連:liên(nối)
+絡:lạc(liên lạc)
+れんしゅうします
+練習します	[tha đt] luyện tập
+練:luyện(luyện tập)
+習:tập(học)
+きぶんがいい
+気分がいい	tâm trạng tốt
+気:khí(tinh thần)
+分:phân(phần)
+ちょうしがいい
+調子がいい	thể trạng tốt, máy móc hoạt động tốt
+調:điều(điều chỉnh)
+子:tử(con)
+きぶんがわるい
+気分が悪い	tâm trạng, thể trạng xấu
+気:khí(tinh thần)
+分:phân(phần)
+悪:ác(xấu)
+うんどうかい
+運動会	hội thi thể thao
+運:vận(vận động)
+動:động(chuyển động)
+会:hội(họp)
+おまつり
+お祭り	lễ hội
+祭:tế(lễ hội)
+フリーマーケット
+フリーマーケット	chợ đồ cũ, chợ trời
+フリーマーケット:furīmāketto(flea market)
+ばしょ
+場所	nơi chốn, địa điểm
+場:trường(nơi)
+所:sở(nơi)
+ボランティア
+ボランティア	việc từ thiện, tình nguyện viên
+ボランティア:borantia(volunteer)
+さいふ
+財布	ví
+財:tài(tiền tài)
+布:bố(vải)
+ごみ
+ごみ	rác
+ごみ:gomi(rác)
+こっかいぎじどう
+国会議事堂	tòa nhà quốc hội
+国:quốc(nước)
+会:hội(họp)
+議:nghị(nghị viện)
+事:sự(việc)
+堂:đường(nhà lớn)
+へいじつ
+平日	ngày thường
+平:bình(bình thường)
+日:nhật(ngày)
+しゅうまつ
+週末	cuối tuần
+周:chu(vòng)
+末:mạt(cuối)
+おおさかべん
+大阪弁	tiếng Osaka
+大:đại(lớn)
+阪:phản(saka)
+弁:biện(tiếng nói)
+こんど
+今度	lần tới
+今:kim(bây giờ)
+度:độ(lần)
+ずいぶん
+ずいぶん	khá, tương đối
+ずいぶん:zuibun(khá là)
+いつでも
+いつでも	lúc nào cũng, bất cứ lúc nào
+いつでも:itsudemo(bất cứ lúc nào)
+どこでも
+どこでも	bất cứ đâu
+どこでも:dokodemo(bất cứ đâu)
+だれでも
+誰でも	bất cứ ai, ai cũng
+誰:thùy(ai)
+なんでも
+何でも	cái gì cũng
+何:hà(gì)
+こんな
+こんな...	... như thế này
+こんな:konna(... như thế này)
+そんな
+そんな...	... như thế đó
+そんな:sonna(... như thế đó)
+あんな
+あんな...	... như thế kia
+あんな:anna(... như thế kia)
+かたづきます
+片付く	[tự đt] sắp xếp, dọn dẹp
+片:phiến(một bên)
+付:phó(gắn)
+だします
+出す	[tha đt] đổ, để (rác)
+出:xuất(ra)
+もえるごみ
+燃えるごみ	rác cháy được
+燃:nhiên(cháy)
+おきば
+置き場	chỗ để, chỗ đặt
+置:trí(đặt)
+場:trường(nơi)
+よこ
+横	bên cạnh
+横:hoành(ngang)
+となり
+隣	bên cạnh (cùng chủng loại)
+隣:lân(láng giềng)
+びん
+瓶	cái chai, lọ bằng thủy tinh
+瓶:bình(lọ)
+かん
+缶	cái lon, hộp kim loại
+缶:phữu(lon)
+ガス
+ガス	ga
+ガス:gasu(gas)
+ガスがいしゃ
+ガス会社	công ty ga
+会社:kaisha(công ty)
+うちゅう
+宇宙	vũ trụ
+宇:vũ(vũ trụ)
+宙:trụ(không gian)
+さま
+様	ngài, vị
+様:dạng(vị)
+うちゅうせん
+宇宙船	tàu vũ trụ
+宇:vũ(vũ trụ)
+宙:trụ(không gian)
+船:thuyền(thuyền)
+こわい
+怖い	sợ, đáng sợ
+怖:bố(sợ)
+ちがいます
+違う	khác, không phải
+違:vi(khác)
+うちゅうひこうし
+宇宙飛行士	nhà du hành vũ trụ
+宇:vũ(vũ trụ)
+宙:trụ(không gian)
+飛:phi(bay)
+行:hành(đi)
+士:sĩ(sĩ)
+のほう
+～の方	hướng~
+方:phương(hướng)
+ずっと
+ずっと	suốt, liền
+ずっと:zutto(suốt)
+のこります
+残ります	[tự đt] ở lại, còn lại
+残:tàn(còn lại)
+月に
+月に	(trong) một tháng
+月:nguyệt(tháng)
+ふつうの
+普通の	thường, bình thường
+普:phổ(phổ thông)
+通:thông(thông thường)
+インターネット
+インターネット	internet
+インターネット:intānetto(internet)
+村
+村	làng
+村:thôn(làng)
+映画館
+映画館	rạp chiếu phim
+映:ánh(chiếu)
+画:họa(tranh)
+館:quán(tòa nhà)
+いやな
+嫌な	chán ghét, không chấp nhận được
+嫌:hiềm(ghét)
+とじます
+閉じます	[tha đt] nhắm (mắt), đóng
+閉:bế(đóng)
+とかい
+都会	thành phố
+都:đô(thành phố)
+会:hội(tập trung)
+こどもたち
+子供たち	bọn trẻ
+子:tử(con)
+供:cung(cung cấp)
+自由に
+自由に	tự do
+自:tự(tự)
+由:do(do)
+世界中
+世界中	khắp thế giới
+世:thế(thế)
+界:giới(giới)
+中:trung(trong)
+あつまります
+集まります	[tự đt] tập hợp
+集:tập(tập trung)
+うつくしい
+美しい	đẹp
+美:mỹ(đẹp)
+しぜん
+自然	thiên nhiên, tự nhiên
+自:tự(tự)
+然:nhiên(nhiên)
+すばらしさ
+素晴らしさ	tuyệt vời
+素:tố(tố)
+晴:tình(tình)
+気が付きます
+気が付きます	[tự đt] để ý, nhận ra
+気:khí(khí)
+付:phó(phó)
+はじまります
+始まります	[tự đt] bắt đầu
+始:thủy(bắt đầu)
+つづけます
+続けます	[tha đt] tiếp tục
+続:tục(tiếp tục)
+みつけます
+見つけます	[tha đt] tìm thấy
+見:kiến(nhìn)
+うけます
+受けます	[tha đt] thi (kì thi), nhận
+受:thụ(nhận)
+にゅうがくします
+入学します	[tự đt] nhập học
+入:nhập(vào)
+学:học(học)
+そつぎょうします
+卒業します	[tự đt] tốt nghiệp
+卒:tốt(tốt nghiệp)
+業:nghiệp(nghiệp vụ)
+きゅうけいします
+休憩します	[tự đt] giải lao
+休:hưu(nghỉ)
+憩:hế(nghỉ ngơi)
+れんきゅう
+連休	ngày nghỉ liền nhau
+連:liên(liên tiếp)
+休:hưu(nghỉ)
+さくぶん
+作文	bài văn
+作:tác(làm)
+文:văn(văn học)
+てんらんかい
+展覧会	triển lãm
+展:triển(bày)
+覧:lãm(xem)
+会:hội(họp)
+けっこんしき
+結婚式	lễ cưới, đám cưới
+結:kết(kết nối)
+婚:hôn(cưới)
+式:thức(lễ)
+おそうしき
+お葬式	lễ tang, đám tang
+葬:táng(chôn cất)
+式:thức(lễ)
+しき
+式	buổi lễ
+式:thức(lễ)
+ほんしゃ
+本社	trụ sở chính
+本:bản(gốc)
+社:xã(công ty)
+してん
+支店	chi nhánh
+支:chi(nhánh)
+店:điếm(cửa hàng)
+きょうかい
+教会	nhà thờ
+教:giáo(dạy)
+会:hội(tập trung)
+だいがくいん
+大学院	cao học
+大:đại(lớn)
+学:học(học)
+院:viện(cơ quan)
+どうぶつえん
+動物園	sở thú
+動:động(động vật)
+物:vật(đồ vật)
+園:viên(vườn)
+おんせん
+温泉	suối nước nóng
+温:ôn(ấm)
+泉:tuyền(suối)
+おきゃくさん
+お客さん	khách hàng
+客:khách(khách)
+だれか
+誰か	ai đó
+誰:thùy(ai)
+かびん
+花瓶	lọ hoa
+花:hoa(hoa)
+瓶:bình(lọ)
+かがみ
+鏡	cái gương
+鏡:kính(gương)
+ひきだし
+引き出し	ngăn kéo
+引:dẫn(kéo)
+出:xuất(ra)
+げんかん
+玄関	cửa vào
+玄:huyền(huyền)
+関:quan(cửa ải)
+ろうか
+廊下	hành lang
+廊:lang(hành lang)
+下:hạ(dưới)
+かべ
+壁	bức tường
+壁:bích(tường)
+いけ
+池	cái ao
+池:trì(ao)
+こうばん
+交番	trạm cảnh sát
+交:giao(giao)
+番:phiên(phiên)
+元の所
+元の所	địa điểm ban đầu
+元:nguyên(nguyên)
+所:sở(nơi)
+まわり
+周り	xung quanh
+周:chu(vòng)
+まんなか
+真ん中	giữa, trung tâm
+真:chân(thật)
+中:trung(giữa)
+すみ
+隅	góc
+隅:ng隅(góc)
+まだ
+まだ	chưa
+まだ:mada(chưa)
+ほど
+ほど	chừng～
+ほど:hodo(chừng)
+よていひょう
+予定表	thời khóa biểu
+予:dự(trước)
+定:định(cố định)
+表:biểu(bảng)
+ごくろうさま
+ご苦労様	anh, chị đã làm việc vất vả
+苦:khổ(khổ)
+労:lao(lao động)
+様:dạng(vị)
+きぼう
+希望	hi vọng, nguyện vọng
+希:hi(hy vọng)
+望:vọng(mong)
+何かご希望がありますか
+何かご希望がありますか	anh/chị có nguyện vọng gì không?
+何:hà(gì)
+希:hi(hi)
+望:vọng(vọng)
+ミュージカル
+ミュージカル	ca kịch
+ミュージカル:myūjikaru(musical)
+まるい
+丸い	tròn
+丸:hoàn(tròn)
+月
+月	mặt trăng
+月:nguyệt(trăng)
+ちきゅう
+地球	trái đất
+地:địa(đất)
+球:cầu(quả cầu)
+うれしい
+嬉しい	vui
+嬉:hi(vui vẻ)
+嫌な
+嫌な	chán, ghét, không chấp nhận được
+嫌:hiềm(ghét)
+すると
+すると	sau đó, tiếp đó
+すると:suruto(sau đó)
+目が覚めます
+目が覚めます	[tự đt] tỉnh giấc, mở mắt
+目:mục(mắt)
+覚:giác(tỉnh)
+はります
+貼ります	[tha đt] dán
+貼:thiếp(dán)
+かけます
+掛けます	[tha đt] treo
+掛:quải(treo)
+かざります
+飾ります	[tha đt] trang trí
+飾:sức(trang trí)
+ならべます
+並べます	[tha đt] xếp thành hàng
+並:tịnh(xếp)
+うえます
+植えます	[tha đt] trồng (cây)
+植:thực(trồng)
+もどします
+戻します	[tha đt] đưa về, trả về
+戻:lệ(quay lại)
+まとめます
+まとめます	[tha đt] nhóm lại, tóm tắt
+まとめます:matomemasu(nhóm lại)
+かたづけます
+片づけます	[tha đt] dọn dẹp, sắp xếp
+片:phiến(một bên)
+付:phó(gắn)
+しまいます
+仕舞います	[tha đt] cất vào, để vào
+仕:sĩ(làm)
+舞:vũ(múa)
+きめます
+決めます	[tha đt] quyết định
+決:quyết(quyết định)
+しらせます
+知らせます	[tha đt] thông báo
+知:tri(biết)
+そうだんします
+相談します	[tha đt] thảo luận, bàn bạc
+相:tương(lẫn nhau)
+談:đàm(bàn)
+よしゅうします
+予習します	[tha đt] chuẩn bị bài mới
+予:dự(trước)
+習:tập(học)
+ふくしゅうします
+復習します	[tha đt] ôn bài cũ
+復:phục(lặp lại)
+習:tập(học)
+そのままにします
+そのままにします	[tha đt] để nguyên như thế
+そのままにします:sonomama ni shimasu(để nguyên)
+お子さん
+お子さん	con (dùng đối với người khác)
+子:tử(con)
+じゅぎょう
+授業	giờ học
+授:thụ(dạy)
+業:nghiệp(nghiệp vụ)
+こうぎ
+講義	bài giảng
+講:giảng(giảng dạy)
+義:nghĩa(nghĩa)
+ミーティング
+ミーティング	cuộc họp
+ミーティング:mītingu(meeting)
+よてい
+予定	kế hoạch, dự định
+予:dự(trước)
+定:định(cố định)
+お知らせ
+お知らせ	bản thông báo
+知:tri(biết)
+あんないしょ
+案内書	tài liệu hướng dẫn
+案:án(hướng dẫn)
+内:nội(trong)
+書:thư(sách)
+案内します
+案内します	[tha đt] dẫn đường, giới thiệu tham quan
+案:án(hướng dẫn)
+内:nội(trong)
+カレンダー
+カレンダー	lịch, tờ lịch
+カレンダー:karendā(calendar)
+ポスター
+ポスター	tờ quảng cáo, tờ áp phích
+ポスター:posutā(poster)
+ごみばこ
+ごみ箱	thùng rác
+箱:sương(thùng)
+にんぎょう
+人形	con búp bê, con rối
+人:nhân(người)
+形:hình(hình dáng)
+枝
+枝	cành cây
+枝:chi(cành)
+えきいん
+駅員	nhân viên nhà ga
+駅:dịch(ga)
+員:viên(nhân viên)
+交番
+交番	đồn cảnh sát, bốt cảnh sát
+交:giao(giao)
+番:phiên(phiên)
+スピーチ
+スピーチ	diễn văn
+スピーチ:supīchi(speech)
+へんじ
+返事	phản hồi, trả lời
+返:phản(trả lại)
+事:sự(việc)
+お先にどうぞ
+お先にどうぞ	mời anh/chị đi trước, làm trước
+先:tiên(trước)
+源氏物語
+源氏物語	Truyện Genji
+源:nguyên(nguồn)
+氏:thị(thị tộc)
+物:vật(vật)
+語:ngữ(lời nói)
+今の電車
+今の電車	chuyến tàu điện vừa chạy
+今:kim(bây giờ)
+電:điện(điện)
+車:xa(xe)
+わすれもの
+忘れ物	đồ bỏ quên
+忘:vong(quên)
+物:vật(đồ)
+このくらい
+このくらい	cỡ tầm này, cỡ chừng này
+このくらい:kono kurai(cỡ tầm này)
+がわ
+側	phía...
+側:trắc(phía)
+ポケット
+ポケット	túi (quần áo)
+ポケット:poketto(pocket)
+へん
+辺	chỗ, vùng...
+辺:biên(vùng)
+おぼえていません
+覚えていません	tôi không nhớ
+覚:giác(nhớ)
+あみだな
+網棚	giá để hành lý (trên tàu)
+網:võng(lưới)
+棚:bằng(kệ)
+たしか
+確か	chắc là
+確:xác(chắc chắn)
+ああ、よかった
+ああ、よかった	ôi, may quá
+ああ、よかった:aa yokatta(ôi may quá)
+じしん
+地震	động đất
+地:địa(đất)
+震:chấn(rung chuyển)
+壁
+壁	bức tường
+壁:bích(tường)
+針
+針	kim đồng hồ
+針:châm(kim)
+さします
+指します	[tha đt] chỉ (kim đồng hồ chỉ...)
+指:chỉ(ngón tay)
+駅まえ
+駅前	trước ga
+駅:dịch(ga)
+前:tiền(trước)
+たおれます
+倒れます	[tự đt] bị đổ, ngã
+倒:đảo(đổ)
+もえます
+燃えます	[tự đt] (lửa, rác) đang cháy
+燃:nhiên(cháy)
+あきます
+開きます	[tự đt] (cửa) đang mở
+開:khai(mở)
+しまります
+閉まります	[tự đt] (cửa) đang đóng
+閉:bế(đóng)
+つきます
+点きます	[tự đt] (đèn, đồ điện) đang sáng, đang bật
+点:điểm(thắp sáng)
+きえます
+消えます	[tự đt] (đèn, đồ điện) đang tắt, bị tắt
+消:tiêu(tắt)
+こみます
+込みます	[tự đt] (đường) đang đông
+混:hỗn(đông đúc)
+すきます
+空きます	[tự đt] (đường) đang vắng
+空:không(trống)
+こわれます
+壊れます	[tự đt] (ghế, đồ vật) bị hỏng
+壊:hoại(hỏng)
+われます
+割れます	[tự đt] (cốc, kính) bị vỡ
+割:cát(vỡ)
+おれます
+折れます	[tự đt] (cây) bị gãy
+折:chiết(gãy)
+やぶれます
+破れます	[tự đt] (giấy) bị rách
+破:phá(rách)
+よごれます
+汚れます	[tự đt] (tay, quần áo) bị dơ, bị bẩn
+汚:ô(bẩn)
+つきます
+付きます	[tự đt] (túi) được đính kèm, gắn kèm
+付:phó(gắn)
+はずれます
+外れます	[tự đt] (cúc áo) bị tuột, rời ra
+外:ngoại(ngoài)
+とまります
+止まります	[tự đt] (xe máy, đồng hồ) đang dừng
+止:chỉ(dừng)
+とめます
+止めます	[tha đt] dừng lại, đỗ lại, ngắt nguồn
+止:chỉ(dừng)
+まちがえます
+間違えます	[tha đt] nhầm lẫn, sai
+間:gian(giữa)
+違:vi(khác)
+おとします
+落とします	[tha đt] làm rơi, rớt
+落:lạc(rơi)
+かかります
+掛かります	[tự đt] (ổ khóa) đang được khóa
+掛:quải(treo)
+ふきます
+拭きます	[tha đt] lau, chùi
+拭:thức(lau)
+とりかえます
+取り替えます	[tha đt] thay, đổi
+取:thủ(lấy)
+替:thế(thay)
+おさら
+お皿	đĩa
+皿:mãnh(đĩa)
+おちゃわん
+お茶碗	bát, chén
+茶:trà(trà)
+碗:oản(bát)
+コップ
+コップ	cốc
+コップ:koppu(cup)
+ガラス
+ガラス	kính, thủy tinh (chất liệu)
+ガラス:garasu(glass)
+ふくろ
+袋	túi ni-lông, bao tải
+袋:đại(túi)
+しょるい
+書類	giấy tờ
+書:thư(sách)
+類:loại(loại)
+さきます
+咲きます	[tự đt] nở (hoa)
+咲:tiếu(nở)
+かわります
+変わります	[tự đt] thay đổi, đổi
+変:biến(thay đổi)
+こまります
+困ります	[tự đt] rắc rối, khó xử, có vấn đề
+困:khốn(khó khăn)
+つけます
+付けます	[tha đt] vẽ, đánh dấu
+付:phó(gắn)
+ひろいます
+拾います	[tha đt] nhặt lên
+拾:thập(nhặt)
+電話が掛かります
+電話が掛かります	[tự đt] có cuộc gọi điện thoại
+電:điện(điện)
+話:thoại(thoại)
+掛:quải(treo)
+らく
+楽な	thoải mái, nhàn hạ, dễ dàng
+楽:lạc(vui vẻ)
+ただしい
+正しい	đúng, chính xác
+正:chính(đúng)
+めずらしい
+珍しい	hiếm có
+珍:trân(quý hiếm)
+かた
+方	vị, người
+方:phương(hướng)
+むこう
+向こう	bên kia, bên đấy
+向:hướng(hướng)
+しま
+島	đảo, hòn đảo
+島:đảo(đảo)
+村
+村	làng
+村:thôn(làng)
+みなと
+港	cảng, bến cảng
+港:cảng(cảng)
+きんじょ
+近所	hàng xóm, khu vực lân cận
+近:cận(gần)
+所:sở(nơi)
+おくじょう
+屋上	mái nhà, nóc nhà, sân thượng
+屋:ốc(nhà)
+上:thượng(trên)
+かいがい
+海外	nước ngoài, hải ngoại
+海:hải(biển)
+外:ngoại(ngoài)
+やまのぼり
+山登り	leo núi
+山:sơn(núi)
+登:đăng(leo)
+ハイキング
+ハイキング	đi bộ trên núi
+ハイキング:haikingu(hiking)
+きかい
+機会	cơ hội
+機:cơ(cơ hội)
+会:hội(họp)
+きょか
+許可	sự cho phép
+許:hứa(cho phép)
+可:khả(được)
+まる
+丸	tròn, vòng tròn
+丸:hoàn(tròn)
+そうさ
+操作	thao tác
+操:thao(thao tác)
+作:tác(làm)
+ほうほう
+方法	phương pháp
+方:phương(phương)
+法:pháp(pháp luật)
+せつび
+設備	thiết bị
+設:thiết(lập)
+備:bị(trang bị)
+カーテン
+カーテン	cái rèm
+カーテン:kāten(curtain)
+ひも
+ひも	sợi dây
+ひも:himo(dây)
+ふた
+ふた	cái nắp
+ふた:futa(nắp)
+は
+葉	cái lá
+葉:diệp(lá)
+きょく
+曲	bài hát, bản nhạc
+曲:khúc(khúc nhạc)
+楽しみ
+楽しみ	niềm vui, điều vui
+楽:lạc(vui vẻ)
+もっと
+もっと	hơn, nữa
+もっと:motto(hơn)
+はじめに
+初めに	đầu tiên, trước hết
+初:sơ(đầu tiên)
+これでおわります
+これで終わります	đến đây là hết, chúng ta dừng ở đây
+終:chung(kết thúc)
+それなら
+それなら	nếu thế thì, vậy thì
+それなら:sorenara(nếu thế thì)
+やこうバス
+夜行バス	xe buýt chạy đêm
+夜:dạ(tối)
+行:hành(đi)
+りょこうしゃ
+旅行社	công ty du lịch
+旅:lữ(du lịch)
+行:hành(đi)
+社:xã(công ty)
+くわしい
+詳しい	cụ thể, chi tiết
+詳:tường(chi tiết)
+スキーじょう
+スキー場	bãi trượt tuyết
+場:trường(nơi)
+しゅ
+朱	đỏ ánh cam
+朱:chu(đỏ son)
+まじわります
+交わります	[tự đt] giao lưu, tiếp xúc
+交:giao(giao lưu)
+ことわざ
+ことわざ	tục ngữ
+ことわざ:kotowaza(tục ngữ)
+なかよくします
+仲よくします	[tự đt] quan hệ tốt với, chơi thân với
+仲:trọng(quan hệ)
+ひつような
+必要な	cần thiết
+必:tất(tất yếu)
+要:yếu(cần thiết)
+とどきます
+届きます	[tự đt] được gửi đến, được chuyển đến
+届:đạt(gửi đến)
+でます
+出ます	[tự đt] tham gia, tham dự
+出:xuất(ra)
+うちます
+打ちます	[tha đt] đánh máy tính, đánh golf
+打:đả(đánh)
+ちょきんします
+貯金します	[tha đt] tiết kiệm tiền, để dành tiền
+貯:trữ(tiết kiệm)
+金:kim(tiền)
+ふとります
+太ります	[tự đt] béo lên, tăng cân
+太:thái(to, béo)
+やせます
+痩せます	[tự đt] gầy đi, giảm cân
+痩:sấu(gầy)
+すぎます
+過ぎます	[tự đt] quá, vượt quá, trôi qua
+過:quá(quá mức)
+なれます
+慣れます	[tự đt] quen với, thích nghi với
+慣:quán(quen)
+固い
+固い	cứng cáp, vững chắc
+固:cố(cứng)
+軟らかい
+軟らかい	mềm mại, linh hoạt
+軟:nhuyễn(mềm)
+電子
+電子	điện tử
+電:điện(điện)
+子:tử(con)
+携帯
+携帯	cầm tay
+携:huề(cầm)
+帯:đới(mang)
+こうじょう
+工場	nhà máy, phân xưởng
+工:công(công)
+場:trường(nơi)
+健康
+健康	sức khỏe
+健:kiện(khỏe)
+康:khang(an khang)
+けんどう
+剣道	kiếm đạo
+剣:kiếm(gươm)
+道:đạo(đường)
+やっと
+やっと	cuối cùng thì
+やっと:yatto(cuối cùng)
+かなり
+かなり	khá, tương đối
+かなり:kanari(khá)
+必ず
+必ず	nhất định
+必:tất(tất yếu)
+絶対に
+絶対に	tuyệt đối
+絶:tuyệt(tuyệt đối)
+対:đối(đối)
+上手に
+上手に	giỏi, khéo
+上:thượng(trên)
+手:thủ(tay)
+できるだけ
+できるだけ	Cố gắng... hết sức
+できるだけ:dekirudake(cố gắng)
+このごろ
+このごろ	gần đây, dạo này
+このごろ:konogoro(gần đây)
+そのほうがー
+そのほうがー	cái đó-hơn
+そのほうがー:sono hō ga-(cái đó hơn)
+お客様
+お客様	khách hàng
+客:khách(khách)
+特別な
+特別な	đặc biệt
+特:đặc(đặc biệt)
+別:biệt(khác)
+していらっしゃる
+していらっしゃる	đang làm (tôn kính ngữ)
+していらっしゃる:shiteirassharu(đang làm)
+すいえい
+水泳	môn bơi lội
+水:thủy(nước)
+泳:vịnh(bơi)
+～とか、～とか
+～とか、～とか	như là...và～và
+～とか:～toka(như là)
+タンゴ
+タンゴ	tango
+タンゴ:tango(tango)
+チャレンジします
+チャレンジします	[tự đt] thách thức, thử thách
+チャレンジします:charenji shimasu(thử thách)
+きもち
+気持ち	cảm giác, tâm trạng, tinh thần
+気:khí(tinh thần)
+持:trì(giữ)
+乗り物
+乗り物	phương tiện đi lại
+乗:thừa(lên xe)
+物:vật(đồ vật)
+れきし
+歴史	lịch sử
+歴:lịch(lịch sử)
+史:sử(lịch sử)
+とおく
+遠く	xa, ở xa
+遠:viễn(xa)
+きしゃ
+汽車	tàu hỏa chạy bằng hơi nước
+汽:khí(hơi nước)
+車:xa(xe)
+きせん
+汽船	thuyền chạy bằng hơi nước
+汽:khí(hơi nước)
+船:thuyền(thuyền)
+	
+運びます
+運びます	[tha đt] vận chuyển
+運:vận(vận chuyển)
+安全な
+安全な	an toàn
+安:an(an toàn)
+全:toàn(toàn bộ)
+飛びます
+飛びます	[tự đt] bay
+飛:phi(bay)
+宇宙
+宇宙	vũ trụ
+宇:vũ(vũ trụ)
+宙:trụ(không gian)
+地球
+地球	trái đất
+地:địa(đất)
+球:cầu(quả cầu)**
+こたえます
+答えます	[tự đt] trả lời (câu hỏi)
+答:đáp(trả lời)
+たおれます
+倒れます	[tự đt] đổ, ngã, sụp đổ
+倒:đảo(đổ, ngã)
+とおります
+通ります	[tự đt] đi qua (đường)
+通:thông(đi qua)
+しにます
+死にます	[tự đt] chết, qua đời
+死:tử(chết)
+びっくりします
+びっくりします	[tự đt] ngạc nhiên, giật mình
+がっかりします
+がっかりします	[tự đt] thất vọng, chán nản
+あんしんします
+安心します	[tự đt] yên tâm, an tâm
+安:an(yên tâm)
+心:tâm(tim, lòng)
+りこんします
+離婚します	[tự đt] ly hôn
+離:ly(chia lìa)
+婚:hôn(kết hôn)
+ふくざつ（な）
+複雑（な）	phức tạp
+複:phức(phức tạp)
+雑:tạp(tạp nham)
+じゃま（な）
+邪魔（な）	cản trở, phiền phức
+邪:tà(tà ma)
+魔:ma(ma quỷ)
+かたい
+硬い	cứng, rắn
+硬:ngạnh(cứng)
+やわらかい
+柔らかい	mềm, mềm mại
+柔:nhu(mềm)
+かなしい
+悲しい	buồn, đau buồn
+悲:bi(buồn)
+はずかしい
+恥ずかしい	xấu hổ, mắc cỡ
+恥:sỉ(xấu hổ)
+つなみ
+津波	sóng thần
+津:tân(bến sông)
+波:ba(sóng)
+たいふう
+台風	bão
+台:đài(nhà cao tầng)
+風:phong(gió)
+かみなり
+雷	sấm sét
+雷:lôi(sấm)
+かじ
+火事	hỏa hoạn, cháy nhà
+火:hỏa(lửa)
+事:sự(việc)
+じこ
+事故	tai nạn, sự cố
+事:sự(việc)
+故:cố(tai nạn)
+ハイキング
+ハイキング	đi bộ đường dài, dã ngoại
+おみあい
+お見合い	mai mối (xem mắt)
+見:kiến(nhìn)
+合:hợp(hợp)
+そうさ
+操作	[tha đt] thao tác, điều khiển
+操:thao(thao tác)
+作:tác(làm)
+かいじょう
+会場	hội trường, địa điểm tổ chức
+会:hội(họp)
+場:trường(địa điểm)
+だいきん
+代金	tiền hàng, tiền thanh toán
+代:đại(thay thế)
+金:kim(tiền)
+フロント
+フロント	bộ phận lễ tân
+―ごうしつ
+―号室	phòng số-
+号:hiệu(số)
+室:thất(phòng)
+タオル
+タオル	khăn tắm, khăn lau
+せっけん
+石鹸	xà phòng
+石:thạch(đá)
+鹸:kiểm(xà phòng)
+おおぜい
+大勢	nhiều người, 1 đám đông người
+大:đại(lớn)
+勢:thế(thế lực)
+おつかれさまでした
+お疲れ様でした	Anh/Chị đã vất vả rồi
+疲:bì(mệt mỏi)
+様:dạng(vị, ngài)
+うかがいます
+伺います	[tha đt] đến thăm, hỏi (khiêm nhường ngữ)
+伺:tỉ(ghé thăm)
+とちゅうで
+途中で	ở giữa chừng, While
+途:đồ(đường đi)
+中:trung(giữa)
+トラック
+トラック	xe tải truck
+ぶつかります
+ぶつかります	[tự đt] va chạm, đụng vào
+おとな
+大人	người lớn
+大:đại(lớn)
+人:nhân(người)
+ようふく
+洋服	quần áo kiểu Tây
+洋:dương(phương tây)
+服:phục(quần áo)
+せいようかします
+西洋化します	[tự đt] Tây hóa
+西:tây(tây)
+洋:dương(dương)
+化:hóa(hóa)
+あいます
+合います	[tự đt] hợp, phù hợp
+合:hợp(hợp)
+会:hội(gặp mặt)
+いまでは
+今では	ngày nay, bây giờ thì
+今:kim(bây giờ)
+せいじんしき
+成人式	Lễ trưởng thành
+成:thành(thành)
+人:nhân(người)
+式:thức(nghi thức)
+でんとうてき（な）
+伝統的（な）	mang tính truyền thống
+伝:truyền(truyền)
+統:thống(thống)
+的:đích(đích)
+かぞえます
+数えます	[tha đt] đếm
+数: số (đếm, con số)
+はかります
+測/量ります	[tha đt] đo, cân
+測: trắc (đo đạc)
+量: lượng (đo, cân)
+たしかめます
+確かめます	[tha đt] xác nhận, kiểm tra
+確: xác (chính xác)
+しゅっぱつします
+出発します	[tự đt] xuất phát, khởi hành
+出: xuất (đi ra)
+発: phát (phát xuất)
+とうちゃくします
+到着します	[tự đt] đến, đến nơi
+到: đáo (đến)
+着: trước (đến nơi)
+よいます
+酔います	[tự đt] say
+酔: túy (say)
+きけん（な）
+危険（な）	nguy hiểm
+危: nguy (nguy hiểm)
+険: hiểm (hiểm trở)
+ひつよう（な）
+必要（な）	cần thiết
+必: tất (tất nhiên)
+要: yếu (quan trọng)
+心: tâm (trái tim)
+ぼうねんかい
+忘年会	tiệc tất niên
+忘: vong (quên)
+年: niên (năm)
+会: hội (tụ họp)
+しんねんかい
+新年会	tiệc tân niên
+新: tân (mới)
+年: niên (năm)
+会: hội (tụ họp)
+にじかい
+二次会	bữa tiệc thứ hai, tăng hai
+二: nhị (hai)
+次: thứ (tiếp theo)
+会: hội (tụ họp)
+たいかい
+大会	đại hội, cuộc thi
+大: đại (lớn)
+会: hội (tụ họp)
+マラソン
+マラソン	ma-ra-tông
+コンテスト
+コンテスト	cuộc thi - contest
+おもて
+表	mặt trước
+表: biểu (bề mặt, biểu hiện)
+前 (まえ): Phía trước
+うら
+裏	mặt sau
+裏: lý (mặt sau)
+後ろ (うしろ): không gian phía sau vật thể
+もうしこみ
+申し込み	đăng ký
+申: thân (thưa, bẩm)
+込: vào (vào trong)
+きず
+傷	vết thương
+傷: thương (vết thương)
+ズボン
+ズボン	cái quần
+スプーン : cái thìa
+ながさ
+長さ	chiều dài
+長: trường (dài)
+おもさ
+重さ	cân nặng, trọng lượng
+重: trọng (nặng)
+たかさ
+高さ	chiều cao
+高: cao (cao)
+おおきさ
+大きさ	cỡ, kích thước
+大: đại (lớn)
+―びん
+―便	chuyến bay -
+便: tiện (chuyến, tiện lợi)
+びん: 瓶 :Cái chai thủy tinh.
+―こ
+―こ	cái, cục, viên
+―ほん
+―本	cái (đơn vị đếm vật dài)
+本: bản (quyển, cây, chiếc)
+―はい
+―はい	-chén, -cốc
+―いじょう
+―以上	từ … trở lên, trên
+以: dĩ (lấy làm)
+上: thượng (trên)
+―いか
+―以下	trở xuống, dưới
+以: dĩ (lấy làm)
+下: hạ (dưới)
+さあ
+さあ	à.., ồ.. (dùng khi không rõ về điều gì đó)
+どうでしょうか
+どうでしょうか	thế nào? (cách nói lịch sự của どうですか)
+せいせき
+成績	kết quả, thành tích
+成: thành (thành công)
+績: tích (thành tích)
+ところで
+ところで	nhân tiện
+いらっしゃいます
+いらっしゃいます	đến (kính ngữ của きます)
+ようす
+様子	vẻ, tình hình
+様: dạng (vẻ, trạng thái)
+子: tử (đứa trẻ, con)
+じけん
+事件	vụ án
+事: sự (việc)
+件: kiện (sự kiện, vụ việc)
+ばくだん
+爆弾	bom
+爆: bộc (nổ)
+弾: đạn (viên đạn, trái bom)
+つみます
+積みます	[tha đt] chuyển lên, xếp hàng lên
+積: tích (chất, tích lũy)
+載ります- のります- Tự đt -được xếp lên
+うんてんしゅ
+運転手	tài xế
+運: vận (chuyển)
+転: chuyển (quay)
+手: thủ (tay, người làm nghề)
+はなれた
+離れた	[tự đt] xa cách, xa
+離: ly (chia lìa, rời ra)
+きゅうに
+急に	gấp, đột nhiên
+急: cấp (gấp gáp)
+うごかします
+動かします	[tha đt] khởi động, chạy
+動: động (chuyển động)
+いっしょけんめい
+一所懸命	hết sức, chăm chỉ
+一: nhất (một)
+所: sở (nơi)
+懸: huyền (treo, dốc lòng)
+命: mệnh (sinh mệnh, hết mình)
