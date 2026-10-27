@@ -1,6 +1,16 @@
 ほめます
 褒めます	[tha đt] khen
 褒:bao (khen)
+さがします 
+捜す・探す	tìm đồ vật bị mất, tìm, tìm kiếm (công việc, người...)
+ーによって
+ーによって	do-, bởi- (chỉ tác giả/người thực hiện)
+アクセス
+アクセス	kết nối, giao thông đi lại
+ごうか（な） 
+豪華（な）	hào hoa, sang trọng
+ーせい
+ー製	sản xuất tại-
 しかります
 叱ります	[tha đt] mắng, chửi
 叱:sất(mắng)
@@ -442,7 +452,7 @@
 あげます
 上げます	[tha đt] nâng lên, tăng lên
 上:thượng(trên)
-下げます
+さげます
 下げます	[tha đt] hạ xuống, giảm xuống
 下:hạ(dưới)
 つたえます
@@ -497,7 +507,7 @@
 禁:cấm(cấm)
 止:chỉ(dừng)
 いりぐち
-入口	cửa vào
+入口	lối vào - khu vực cửa vào
 入:nhập(vào)
 口:khẩu(cửa)
 でぐち
@@ -643,7 +653,7 @@
 なおります
 治ります	[tự đt] khỏi bệnh
 治:trị(chữa bệnh)
-直ります
+なおります
 直ります	[tự đt] đã sửa chữa
 直:trực(sửa)
 つづきます
@@ -1311,7 +1321,7 @@
 のこります
 残ります	[tự đt] ở lại, còn lại
 残:tàn(còn lại)
-月に
+つきに
 月に	(trong) một tháng
 月:nguyệt(tháng)
 ふつうの
@@ -1321,10 +1331,10 @@
 インターネット
 インターネット	internet
 インターネット:intānetto(internet)
-村
+むら
 村	làng
 村:thôn(làng)
-映画館
+えいがかん
 映画館	rạp chiếu phim
 映:ánh(chiếu)
 画:họa(tranh)
@@ -1343,15 +1353,10 @@
 子供たち	bọn trẻ
 子:tử(con)
 供:cung(cung cấp)
-自由に
+じゆうに
 自由に	tự do
 自:tự(tự)
 由:do(do)
-世界中
-世界中	khắp thế giới
-世:thế(thế)
-界:giới(giới)
-中:trung(trong)
 あつまります
 集まります	[tự đt] tập hợp
 集:tập(tập trung)
@@ -1366,10 +1371,6 @@
 素晴らしさ	tuyệt vời
 素:tố(tố)
 晴:tình(tình)
-気が付きます
-気が付きます	[tự đt] để ý, nhận ra
-気:khí(khí)
-付:phó(phó)
 はじまります
 始まります	[tự đt] bắt đầu
 始:thủy(bắt đầu)
@@ -1477,10 +1478,10 @@
 池	cái ao
 池:trì(ao)
 こうばん
-交番	trạm cảnh sát
+交番	đồn cảnh sát
 交:giao(giao)
 番:phiên(phiên)
-元の所
+もとのところ
 元の所	địa điểm ban đầu
 元:nguyên(nguyên)
 所:sở(nơi)
@@ -1493,7 +1494,7 @@
 中:trung(giữa)
 すみ
 隅	góc
-隅:ng隅(góc)
+隅:(góc)
 まだ
 まだ	chưa
 まだ:mada(chưa)
@@ -1514,7 +1515,7 @@
 希望	hi vọng, nguyện vọng
 希:hi(hy vọng)
 望:vọng(mong)
-何かご希望がありますか
+なにかごきぼうがありますか
 何かご希望がありますか	anh/chị có nguyện vọng gì không?
 何:hà(gì)
 希:hi(hi)
@@ -1525,9 +1526,6 @@
 まるい
 丸い	tròn
 丸:hoàn(tròn)
-月
-月	mặt trăng
-月:nguyệt(trăng)
 ちきゅう
 地球	trái đất
 地:địa(đất)
@@ -1535,13 +1533,10 @@
 うれしい
 嬉しい	vui
 嬉:hi(vui vẻ)
-嫌な
-嫌な	chán, ghét, không chấp nhận được
-嫌:hiềm(ghét)
 すると
 すると	sau đó, tiếp đó
 すると:suruto(sau đó)
-目が覚めます
+めがさめます
 目が覚めます	[tự đt] tỉnh giấc, mở mắt
 目:mục(mắt)
 覚:giác(tỉnh)
@@ -1595,7 +1590,7 @@
 そのままにします
 そのままにします	[tha đt] để nguyên như thế
 そのままにします:sonomama ni shimasu(để nguyên)
-お子さん
+おこさん
 お子さん	con (dùng đối với người khác)
 子:tử(con)
 じゅぎょう
@@ -1613,15 +1608,12 @@
 予定	kế hoạch, dự định
 予:dự(trước)
 定:định(cố định)
-お知らせ
-お知らせ	bản thông báo
-知:tri(biết)
 あんないしょ
 案内書	tài liệu hướng dẫn
 案:án(hướng dẫn)
 内:nội(trong)
 書:thư(sách)
-案内します
+あんないします
 案内します	[tha đt] dẫn đường, giới thiệu tham quan
 案:án(hướng dẫn)
 内:nội(trong)
@@ -1638,17 +1630,13 @@
 人形	con búp bê, con rối
 人:nhân(người)
 形:hình(hình dáng)
-枝
+えだ
 枝	cành cây
 枝:chi(cành)
 えきいん
 駅員	nhân viên nhà ga
 駅:dịch(ga)
 員:viên(nhân viên)
-交番
-交番	đồn cảnh sát, bốt cảnh sát
-交:giao(giao)
-番:phiên(phiên)
 スピーチ
 スピーチ	diễn văn
 スピーチ:supīchi(speech)
@@ -1656,16 +1644,16 @@
 返事	phản hồi, trả lời
 返:phản(trả lại)
 事:sự(việc)
-お先にどうぞ
+おさきにどうぞ
 お先にどうぞ	mời anh/chị đi trước, làm trước
 先:tiên(trước)
-源氏物語
+げんじものがたり
 源氏物語	Truyện Genji
 源:nguyên(nguồn)
 氏:thị(thị tộc)
 物:vật(vật)
 語:ngữ(lời nói)
-今の電車
+いまのでんしゃ
 今の電車	chuyến tàu điện vừa chạy
 今:kim(bây giờ)
 電:điện(điện)
@@ -1703,16 +1691,13 @@
 地震	động đất
 地:địa(đất)
 震:chấn(rung chuyển)
-壁
-壁	bức tường
-壁:bích(tường)
-針
+はり
 針	kim đồng hồ
 針:châm(kim)
 さします
 指します	[tha đt] chỉ (kim đồng hồ chỉ...)
 指:chỉ(ngón tay)
-駅まえ
+えきまえ
 駅前	trước ga
 駅:dịch(ga)
 前:tiền(trước)
@@ -1819,7 +1804,7 @@
 ひろいます
 拾います	[tha đt] nhặt lên
 拾:thập(nhặt)
-電話が掛かります
+でんわがかかります
 電話が掛かります	[tự đt] có cuộc gọi điện thoại
 電:điện(điện)
 話:thoại(thoại)
@@ -1842,9 +1827,6 @@
 しま
 島	đảo, hòn đảo
 島:đảo(đảo)
-村
-村	làng
-村:thôn(làng)
 みなと
 港	cảng, bến cảng
 港:cảng(cảng)
@@ -1905,7 +1887,7 @@
 きょく
 曲	bài hát, bản nhạc
 曲:khúc(khúc nhạc)
-楽しみ
+たのしみ
 楽しみ	niềm vui, điều vui
 楽:lạc(vui vẻ)
 もっと
@@ -1976,17 +1958,17 @@
 なれます
 慣れます	[tự đt] quen với, thích nghi với
 慣:quán(quen)
-固い
+かたい
 固い	cứng cáp, vững chắc
 固:cố(cứng)
-軟らかい
+やわらかい
 軟らかい	mềm mại, linh hoạt
 軟:nhuyễn(mềm)
-電子
+でんし
 電子	điện tử
 電:điện(điện)
 子:tử(con)
-携帯
+けいたい
 携帯	cầm tay
 携:huề(cầm)
 帯:đới(mang)
@@ -1994,28 +1976,23 @@
 工場	nhà máy, phân xưởng
 工:công(công)
 場:trường(nơi)
-健康
-健康	sức khỏe
-健:kiện(khỏe)
-康:khang(an khang)
 けんどう
 剣道	kiếm đạo
 剣:kiếm(gươm)
 道:đạo(đường)
 やっと
 やっと	cuối cùng thì
-やっと:yatto(cuối cùng)
 かなり
 かなり	khá, tương đối
 かなり:kanari(khá)
-必ず
+かならず
 必ず	nhất định
 必:tất(tất yếu)
-絶対に
+ぜったいに
 絶対に	tuyệt đối
 絶:tuyệt(tuyệt đối)
 対:đối(đối)
-上手に
+じょうずに
 上手に	giỏi, khéo
 上:thượng(trên)
 手:thủ(tay)
@@ -2028,10 +2005,10 @@
 そのほうがー
 そのほうがー	cái đó-hơn
 そのほうがー:sono hō ga-(cái đó hơn)
-お客様
+おきゃくさま
 お客様	khách hàng
 客:khách(khách)
-特別な
+とくべつな
 特別な	đặc biệt
 特:đặc(đặc biệt)
 別:biệt(khác)
@@ -2055,7 +2032,7 @@
 気持ち	cảm giác, tâm trạng, tinh thần
 気:khí(tinh thần)
 持:trì(giữ)
-乗り物
+のりもの
 乗り物	phương tiện đi lại
 乗:thừa(lên xe)
 物:vật(đồ vật)
@@ -2075,24 +2052,10 @@
 汽:khí(hơi nước)
 船:thuyền(thuyền)
 	
-運びます
-運びます	[tha đt] vận chuyển
-運:vận(vận chuyển)
-安全な
+あんぜんな
 安全な	an toàn
 安:an(an toàn)
 全:toàn(toàn bộ)
-飛びます
-飛びます	[tự đt] bay
-飛:phi(bay)
-宇宙
-宇宙	vũ trụ
-宇:vũ(vũ trụ)
-宙:trụ(không gian)
-地球
-地球	trái đất
-地:địa(đất)
-球:cầu(quả cầu)**
 こたえます
 答えます	[tự đt] trả lời (câu hỏi)
 答:đáp(trả lời)
@@ -2364,7 +2327,7 @@
 つみます
 積みます	[tha đt] chuyển lên, xếp hàng lên
 積: tích (chất, tích lũy)
-載ります- のります- Tự đt -được xếp lên
+載ります- のります [Tự đt] được xếp lên
 うんてんしゅ
 運転手	tài xế
 運: vận (chuyển)
