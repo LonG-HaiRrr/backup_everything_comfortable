@@ -1,0 +1,30 @@
+﻿<<Đây là dòng làm dấu Unicode, không được sửa hoặc xoá dòng này>>
+d1||Đọc hiểu
+ff||Flash card -
+ro||Riki_Official
+bnh||bao nhiêu
+boc||bóc tách câu này về thể lịch sự
+dko||đúng không
+hbh||hình bình hành
+hcn||hình chữ nhật
+hth||hình thoi
+kan||viết lại bằng hira / kata kèm dịch nghĩa sau đó viết bằng thể lịch sự masu
+kph||không phải là chữ 
+ntn||như thế nào
+t11||[tự đt]
+t12||[tha đt]
+vne||trả lời lại bằng tiếng việt cho t và nhớ luôn phải trả lời t = tiếng việt
+chep||chép lại cả câu gồm kanji [ bên cạnh là] (hira/kata) [nhớ phải có ngoặc đơn ở hira/kata]
+dat1||đặt 1 câu ví dụ bằng hira -- hạn chế dùng kanji nhưng nếu chữ đó là tên riêng hoặc gì đó thì có thể cân nhắc sang kata
+dich||dịch 1 câu theo form 1 câu nhật(kanji) 1 câu nhật (hira/kata) 1 câu tiếng việt đi nhớ để khoảng cách giữa các câu để nhìn cho dễ
+jap1|| tiếng nhật là gì ; viết đủ các dạng romaji kata kanji hira rồi cho biết người nhật thường sử dụng kiểu j
+kan1||có kanji là gì và viết thử hira / kata thử t xem có đúng từ đó k 
+lam1||làm thật chính xác và giải thích chi tiết bằng tiếng việt 
+ntny||như thế này
+quiz||Check xem có chỗ nào sai không nếu có thì sửa lại và xuất ra dạng file code import quizlet: hira / kata [xuống dòng] kanji (nếu có không có kanji thì viết thêm 1 lần hira / kata) [ngăn cách với cụm nghĩa bằng ++ [tự đt (tự động từ viết tắt cho gọn) / tha đt (tha động từ viết tắt cho gọn) / không ghi gì nếu không phải 2 loại trước] nghĩa tiếng việt [xuống dòng] giải thích từng chữ kanji [không phân tích nếu không có kanji] [ngăn cách các từ mới bằng **  ] ; sử dụng  ** luôn ngay sau khi phân tích kanji mà không cần xuống dòng  và với thẻ cuối cùng thì k cần **  vì đã hết rồi ; ví dụ こんや [xuống dòng] 今夜 ++ Tối nay [xuống dòng] 今 : kim (bây giờ) [xuống dòng] 夜 : dạ (buổi tối) ** [không xuống dòng] ; nhớ xuất ở dạng code để t cóp cho tiện    
+vne1|| luôn phải trả lời t = tiếng việt
+cthuc||công thức
+hira1||viết 1 bản bằng hira / kata và 1 bản bằng kanji (viết như trong đoạn văn của nhật bình thường)
+quiz1||kiểm tra tính chính xác và sửa lại rồi xuất lại ra file code dạng: kanji [xuống dòng] . [xuống dòng] [bóc tách những chữ kanji đó] [++] [tự động từ / tha động từ / không ghi gì nếu không phải 2 loại trước] hira/kata nghĩa  [ngăn cách các từ bởi ** và từ cuối cùng không cần **] ví dụ 今夜	  [xuống dòng] 今:kim(bây giờ) [xuống dòng] 夜:dạ(buổi tối)[++]  こんや  Tối nay [**]  nếu không có kanji thì chỉ cần là hira / kata  [++] nghĩa thôi  
+quiz2||Check xem có chỗ nào sai không nếu có thì sửa lại và xuất ra dạng file code import quizlet: hira / kata [xuống dòng] kanji (nếu có không có kanji thì viết thêm 1 lần hira / kata) [ngăn cách với cụm nghĩa bằng ++] [tự đt (tự động từ viết tắt cho gọn) / tha đt (tha động từ viết tắt cho gọn) / không ghi gì nếu không phải 2 loại trước] nghĩa tiếng việt [xuống dòng] giải thích từng chữ kanji [không phân tích nếu không có kanji] [ngăn cách các từ mới bằng [**] ] ; sử dụng [**] luôn ngay sau khi phân tích kanji mà không cần xuống dòng và với thẻ cuối cùng thì k cần [**] vì đã hết rồi ; ví dụ こんや [xuống dòng] 今夜 [++] Tối nay [xuống dòng] 今:kim(bây giờ) [xuống dòng] 夜:dạ(buổi tối) [** không xuống dòng] ; nhớ xuất ở dạng code để t cóp cho tiện 
+cade1 ||cái j đây lấy như thế nào trong cad e 
